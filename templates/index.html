@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enigma AI Lite</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Enigma AI Lite</h1>
+            <p class="subtitle">Your AI Assistant</p>
+        </header>
+
+        <main>
+            <div class="chat-container">
+                <div id="chat-messages"></div>
+                
+                <form id="chat-form" class="chat-input">
+                    <input type="text" id="user-input" placeholder="Ask me anything..." required>
+                    <button type="submit">Send</button>
+                </form>
+            </div>
+        </main>
+
+        <footer>
+            <p>Disclaimer: This is an AI assistant that provides information based on available sources and may contain inaccuracies.</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html> 
