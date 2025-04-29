@@ -1,6 +1,6 @@
 
-![Uploading EnigmaAI.png…]()
 
+![EnigmaAI](https://github.com/user-attachments/assets/f0c31d28-3647-45ab-a350-5684f7d45853)
 
 
 Name: Enigma AI
