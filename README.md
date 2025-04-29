@@ -1,3 +1,8 @@
+
+![Uploading EnigmaAI.png…]()
+
+
+
 Name: Enigma AI
 
 Core Function: To answer user queries and engage in conversations using its pre-trained knowledge and real-time information gleaned from the internet.
